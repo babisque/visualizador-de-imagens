@@ -1,0 +1,13 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\bin\Debug\Aula24-Desafio.exe.config
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\bin\Debug\Aula24-Desafio.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\bin\Debug\Aula24-Desafio.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\bin\Debug\MaterialSkin.dll
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24_Desafio.Form1.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24_Desafio.Properties.Resources.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.csproj.CopyComplete
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula24-Desafio\obj\Debug\Aula24-Desafio.pdb
